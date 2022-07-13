@@ -5,5 +5,12 @@ body {
 .content {
   width: 1024px;
   margin: auto;
+}
+
+.header {
   text-align: center;
+}
+
+#nav {
+  text-align: end;
 }
