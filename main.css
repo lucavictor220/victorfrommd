@@ -23,6 +23,10 @@ h3 {
   text-align: center;
 }
 
+.published {
+  text-align: right;
+}
+
 #nav {
   text-align: end;
 }
