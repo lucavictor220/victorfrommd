@@ -25,6 +25,15 @@ h3 {
   text-align: center;
 }
 
+.title {
+  max-width: 700px;
+  margin: auto;
+}
+
+.title h1 {
+  text-align: center;
+}
+
 .published {
   text-align: right;
 }
