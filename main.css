@@ -1,28 +1,32 @@
 body {
   font-family: "Oswald", "Open Sans", sans-serif;
   margin: 15px;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 300;
 }
 
 h1 {
   font-size: 28px;
-  line-height: 32px;
+  line-height: 34px;
+  font-weight: 500;
 }
 
 h2 {
   font-size: 24px;
-  line-height: 28px;
+  line-height: 30px;
+  font-weight: 500;
 }
 
 h3 {
   font-size: 20px;
-  line-height: 22px;
+  line-height: 24px;
+  font-weight: 500;
 }
 
 .content {
   width: 575px;
   margin: auto;
-  font-size: 18px;
-  line-height: 24px;
 }
 
 .header {
@@ -40,6 +44,7 @@ h3 {
 
 .published {
   text-align: right;
+  font-style: italic;
 }
 
 #nav {
