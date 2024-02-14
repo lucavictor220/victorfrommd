@@ -51,6 +51,10 @@ h3 {
   text-align: end;
 }
 
+#nav a {
+  margin-right: 4px;
+}
+
 .image-description {
   text-align: center;
   margin-bottom: 7px;
