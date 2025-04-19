@@ -49,6 +49,7 @@ p {
 .published {
   text-align: right;
   font-style: italic;
+  margin-bottom: 15px;
 }
 
 #nav {
@@ -74,6 +75,17 @@ img {
   .content {
     width: 100%;
   }
+}
+
+.references {
+  margin: 15px 0;
+}
+
+.footer-article {
+  position: relative;
+  bottom: 15px;
+  width: 100%;
+  text-align: center;
 }
 
 .footer {
