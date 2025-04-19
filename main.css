@@ -24,6 +24,10 @@ h3 {
   font-weight: 500;
 }
 
+p {
+  margin: 3px;
+}
+
 .content {
   width: 575px;
   margin: auto;
@@ -70,4 +74,11 @@ img {
   .content {
     width: 100%;
   }
+}
+
+.footer {
+  position: absolute;
+  bottom: 15px;
+  width: 100%;
+  text-align: center;
 }
