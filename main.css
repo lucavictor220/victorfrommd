@@ -82,10 +82,8 @@ img {
 }
 
 .footer-article {
-  position: relative;
-  bottom: 15px;
-  width: 100%;
   text-align: center;
+  margin-top: 20px;
 }
 
 .footer {
